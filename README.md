@@ -45,7 +45,7 @@ function show(){
 ```
 
 
-内联的代码'alert('hello world')'内联的代码
+内联的代码`alert('hello world')`内联的代码
 
 
 
